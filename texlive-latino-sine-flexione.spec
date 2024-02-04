@@ -1,6 +1,6 @@
 Name:		texlive-latino-sine-flexione
-Version:	53485
-Release:	2
+Version:	69568
+Release:	1
 Summary:	LaTeX support for documents written in Peano's Interlingua
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latino-sine-flexione
