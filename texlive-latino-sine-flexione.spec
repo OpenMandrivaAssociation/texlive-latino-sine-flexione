@@ -3,7 +3,7 @@ Version:	69568
 Release:	1
 Summary:	LaTeX support for documents written in Peano's Interlingua
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latino-sine-flexione
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/latino-sine-flexione
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latino-sine-flexione.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latino-sine-flexione.doc.r%{version}.tar.xz
